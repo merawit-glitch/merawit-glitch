@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I'm Merawit
+I'm Computer Science student passionate about technology and software development.
+My goal is to become AI Engineer, and I'm working toward it one step at a time.
+What I'm learning
+-Python
+-C++
+-Git & GitHub
+-Artificial Intelligence and Machine Learning
+My Goals
+-Strengthen my programming fundamentals.
+-Build real-world projects.
+-Improve my problem solving skills.
+-Grow into AI Engineer.
+
+A little about me
+I believe in learning, growing, and becoming better every day.
+
 
 <!--
 **merawit-glitch/merawit-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
