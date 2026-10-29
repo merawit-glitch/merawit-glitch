@@ -1,11 +1,14 @@
 ## Hi there 👋 I'm Merawit
+
 I'm Computer Science student passionate about technology and software development.
 My goal is to become AI Engineer, and I'm working toward it one step at a time.
+
 What I'm learning
 -Python
 -C++
 -Git & GitHub
 -Artificial Intelligence and Machine Learning
+
 My Goals
 -Strengthen my programming fundamentals.
 -Build real-world projects.
